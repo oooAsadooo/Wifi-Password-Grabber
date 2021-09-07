@@ -32,7 +32,7 @@ class Wifi_pass_grabber:
 
 
 
-                                                                                 Written By :~: 𝓐𝓢𝓐𝓓   ''')
+                                                                                 Written By :~: ASAD   ''')
         print("              </> BooM <\>   \n")
 
         for i, j in name_pass.items():
