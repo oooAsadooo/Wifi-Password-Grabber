@@ -33,7 +33,7 @@ class Wifi_pass_grabber:
 
 
                                                                                  Written By :~: ASAD   ''')
-        print("For contacting Dm me on Discord , my discord id is => Asad#2809")
+        print("                                                    For contacting Dm me on Discord , my discord id is => Asad#2809 \n")
         print("              </> BooM <\>   \n")
 
         for i, j in name_pass.items():
