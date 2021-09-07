@@ -30,5 +30,3 @@ Its a simple script written in python in Oop format to grab all the wifi SSID an
 
 1> Python3
 
-
-2> subprocess
